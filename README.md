@@ -7,7 +7,6 @@
 * Spring4 + MVC, Integration without using the web.xml and Spring_Servlet.xml file. 
 * By using WebMvcConfigurerAdapter class and WebApplicationInitializer interface to replace above files.
 * By Implementing HandlerInterceptor interface or extending handlerinterceptoradapter class
-* Ref: https://www.journaldev.com/2676/spring-mvc-interceptor-example-handlerinterceptor-handlerinterceptoradapter
 
 > **###1. Technologies**
 * Spring 4.0.6.RELEASE
